@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://setio7.vercel.app/Portfolio.html](https://setio7.vercel.app/Portfolio.html)
+- 👨‍💻 All of my projects are available at [https://setionugraha.my.id](https://setionugraha.my.id)
 
 - 💬 Ask me about **React, Vue, and Javascript**
 
