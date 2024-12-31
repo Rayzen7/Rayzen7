@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rayzen7</h1>
-<h3 align="center">A passionate Mern Stack Developer from Indonesia</h3>
+<h3 align="center">A passionate Website Development from Indonesia</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://setionugraha.my.id](https://setionugraha.my.id)
 
-- 💬 Ask me about **React, Vue, and Javascript**
+- 💬 Ask me about **React, Laravel, and Javascript**
 
 - ⚡ Fun fact **I think i'am funny**
 
