@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.setionugraha.my.id/)
 
-- 💬 Ask me about **React, Laravel, and Javascript**
+- 💬 Ask me about **Next, React, Laravel**
 
 - ⚡ Fun fact **I think i'am funny**
 
