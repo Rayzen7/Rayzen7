@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://setionugraha.my.id](https://setionugraha.my.id)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.setionugraha.my.id/)
 
 - 💬 Ask me about **React, Laravel, and Javascript**
 
