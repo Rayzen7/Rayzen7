@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">About me</h3>
+
+###
+
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.setionugraha.my.id/)
