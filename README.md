@@ -82,6 +82,16 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" height="30" alt="adonisjs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react native logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Inertia.js-3E4B60?style=for-the-badge&logo=inertia&logoColor=white" height="30" alt="inertia logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo"  />
