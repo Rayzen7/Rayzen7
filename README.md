@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.setionugraha.my.id/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://modern-portfolio.setionugraha.my.id/)
 
 - 💬 Ask me about **Next, React, Laravel**
 
