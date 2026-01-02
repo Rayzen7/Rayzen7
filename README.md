@@ -87,8 +87,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=setio7-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=setio7-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=setio7-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
